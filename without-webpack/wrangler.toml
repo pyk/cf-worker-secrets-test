@@ -1,5 +1,0 @@
-name = "cf-worker-secrets-test-without-webpack"
-type = "javascript"
-account_id = "201194125ec8269d6b80648dc5b513be"
-workers_dev = true
-zone_id = "719e963dff4149899cabc2b60f9fe885"
